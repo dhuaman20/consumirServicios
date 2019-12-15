@@ -6,7 +6,7 @@
   ],
   "posts": [
     { "id": 1, "title": "Porque adoptar animales?", "body": "pienso que es importante adoptar porque...", "userId": 1 },
-    { "id": 2, "title": "que pienso del calentamiento global?","body":"deberiamos de hacer algo con este problema...","userId": 1 },
+    { "id": 2, "title": "que pienso del calentamiento global?", "body" : "deberiamos de hacer algo con este problema...", "userId": 1 },
     { "id": 2, "title": "como crearc  mi propia empresa ?", "body": "antes nesecitas saber que...","userId": 2 }
   ],
   "comments": [
